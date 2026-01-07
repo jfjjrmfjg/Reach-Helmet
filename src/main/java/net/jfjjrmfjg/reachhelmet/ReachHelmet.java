@@ -11,6 +11,6 @@ public class ReachHelmet implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-
+        ModItems.initialize();
 	}
 }

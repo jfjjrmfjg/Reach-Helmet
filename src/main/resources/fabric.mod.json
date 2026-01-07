@@ -3,13 +3,13 @@
 	"id": "reach-helmet",
 	"version": "${version}",
 	"name": "Reach Helmet",
-	"description": "Adds 3 tiers of hardhats that give extended reach when worn.",
+	"description": "Adds 3 tiers of hardhats that give extended reach when worn. Identical to their helmet counterparts otherwise.",
 	"authors": [
 		"jay eff jay jay arr emm eff jay gee"
 	],
 	"contact": {
 		"homepage": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-		"sources": "None"
+		"sources": "I made it the fuck up"
 	},
 	"license": "idk bro tell me",
 	"icon": "assets/reach-helmet/icon.png",

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "cCc",
+    "cPc"
+  ],
+  "key": {
+    "c": "minecraft:iron_ingot",
+    "C": "minecraft:iron_block",
+    "P": "minecraft:piston"
+  },
+  "result": {
+    "id": "reach-helmet:iron_hardhat",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "cCc",
+    "cPc"
+  ],
+  "key": {
+    "c": "minecraft:diamond",
+    "C": "minecraft:diamond_block",
+    "P": "minecraft:piston"
+  },
+  "result": {
+    "id": "reach-helmet:diamond_hardhat",
+    "count": 1
+  }
+}

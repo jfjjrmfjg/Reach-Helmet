@@ -6,6 +6,6 @@ public class ReachHelmetClient implements ClientModInitializer {
 
     @Override
     public void onInitializeClient() {
-// interesting
+        ModItems.initialize();
     }
 }
